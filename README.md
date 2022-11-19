@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Luke and I'm working towards becoming a Cloud Engineer. I'll be using GitHub to store all my projects, including some stuff in Python, HTML, CSS, JS, and who knows what else. To the future, whatever it may bring!
+
 <!--
 **CoolestHandLuke/CoolestHandLuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
