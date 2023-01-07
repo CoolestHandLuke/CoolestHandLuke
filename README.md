@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Luke and I'm working towards becoming a Cloud Engineer. I'll be using GitHub to store all my projects, including some stuff in Python, HTML, CSS, JS, and who knows what else. To the future, whatever it may bring!
+I'm Luke and I'm working towards becoming a Software Developer. Right now I'm working through CS50X and CS50P. Afterwards I will be taking CS50G and learning how to use UE5 through Udemy.
 
 <!--
 **CoolestHandLuke/CoolestHandLuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
