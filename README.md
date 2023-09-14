@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind, and Firebase.**
 
-- 👨‍💻 All of my projects are available at [coolesthandluke.com](coolesthandluke.com)
+- 👨‍💻 All of my projects are available at [coolesthandluke.com](https://coolesthandluke.com)
 
 - 📫 How to reach me **shealuke@yahoo.com**
 
