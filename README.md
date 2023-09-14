@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a weather app in React.**
 
-- 🌱 I’m currently learning **React, Tailwind, and MongoDB.**
+- 🌱 I’m currently learning **React, Tailwind, and Firebase.**
 
-- 👨‍💻 All of my projects are available at [lukeinthecloud.com](lukeinthecloud.com)
+- 👨‍💻 All of my projects are available at [coolesthandluke.com](coolesthandluke.com)
 
 - 📫 How to reach me **shealuke@yahoo.com**
 
